@@ -10,7 +10,7 @@
 
 amazonLinux2AMI="ami-0dc2d3e4c0f9ebd18" #-----amazon free tier AMI - amazon Linux 2.
 keypair="keypair-virg" #----------------------us-east-1 key pair (N.Virginia)
-userdata="assi8userdata.txt" #----------------user data to install nginx.
+userdata="userdata.txt" #----------------user data to install nginx.
 Kpair="keypair" #-----------------------------us-east-2 key pair (OHIO)
 
 echo "🅛 Hello user! I'm Luna, an automated bash script instructor. 
